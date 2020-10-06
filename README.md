@@ -4,6 +4,9 @@
 
 ---
 
+<br/>
+<br/>
+
 # Java, JavaScript developer.
 
 My name is Geoffrey and my nickname is Geoffrey.H, I've been passionate about computers since I was a kid and I've been developing things ever since. Starting with Java, I continued with web development which I find really exciting, being able to create an application super easily and which is also complete. Otherwise I have been developing for some time (2014) projects for game servers mainly (see my achievements) and I am available for work!
