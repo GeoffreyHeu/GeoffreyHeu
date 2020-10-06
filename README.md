@@ -1,6 +1,4 @@
-<p align="center">
 ![GeoffreyH](https://geoffreyh.be/assets/content/logo.jpg " GeoffreyH logo")
-<p>
 
 ## 👋 Welcome to the GeoffreyH github
 
