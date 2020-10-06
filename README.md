@@ -33,11 +33,19 @@ My name is Geoffrey and my nickname is Geoffrey.H, I've been passionate about co
 
 ---
 
+<br/>
+<br/>
+
 # 📉 My Github statistics
 
 ![GeoffreyHeu github stats](https://github-readme-stats.vercel.app/api?username=GeoffreyHeu&theme=graywhite&show_icons=true)
+<br/>
+<br/>
 
 ---
+
+<br/>
+<br/>
 
 ## 🔗 Join me
 
