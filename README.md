@@ -23,7 +23,7 @@ My name is Geoffrey and my nickname is Geoffrey.H, I've been passionate about co
 
 <p>
   <img alt="Java" src="https://img.shields.io/badge/-Java-ea2845?style=flat-square&logo=java&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-ea2047?style=flat-square&logo=java&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-ea2047?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="InteliJ IDEA" src="https://img.shields.io/badge/-InteliJ-000000?style=flat-square&logo=intellij%20idea&logoColor=white" />
   <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
