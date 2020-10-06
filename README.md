@@ -12,6 +12,9 @@ My name is Geoffrey and my nickname is Geoffrey.H, I've been passionate about co
 
 ---
 
+<br/>
+<br/>
+
 # 🚀 The technology I use
 
 <p>
