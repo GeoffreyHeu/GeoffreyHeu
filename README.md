@@ -1,6 +1,8 @@
 ![GeoffreyH](https://geoffreyh.be/assets/content/logo.jpg " GeoffreyH logo")
+<br/>
+<br/>
 
-## 👋 Welcome to the GeoffreyH github
+# 👋 Welcome to the GeoffreyH github
 
 ---
 
