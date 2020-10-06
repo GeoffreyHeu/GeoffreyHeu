@@ -52,7 +52,7 @@ My name is Geoffrey and my nickname is Geoffrey.H, I've been passionate about co
 
 ## 🔗 Join me
 
-[![twitter](https://img.shields.io/twitter/follow/GeoffreyH_?color=%231DA1F2&label=Join%20us&logo=Twitter&style=for-the-badge)](https://twitter.com/ByxusMC_Net)
+[![twitter](https://img.shields.io/twitter/follow/GeoffreyH_?color=%231DA1F2&label=Join%20me&logo=Twitter&style=for-the-badge)](https://twitter.com/ByxusMC_Net)
 [![discord](https://img.shields.io/static/v1?label=Discord&message=discord.byxus.net&color=7289DA&logo=Discord&style=for-the-badge)](https://discord.byxus.net/)
 [![website](https://img.shields.io/static/v1?label=Website&message=www.geoffreyh.be&color=green&labelColor=darkgreen&style=for-the-badge)](https://www.byxus.net)
 
